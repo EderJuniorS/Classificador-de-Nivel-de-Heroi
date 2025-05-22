@@ -64,13 +64,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou **
 
 ---  
 
-**Desenvolvido com 💙 por Éder Junior**  
-
----
-
-### 📄 Licença  
-
-Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.  
+**Desenvolvido com 💙 por Éder Junior**   
 
 ---  
 
